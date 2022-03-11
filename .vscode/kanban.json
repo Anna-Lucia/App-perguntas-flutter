@@ -1,0 +1,42 @@
+{
+    "title": "Kanban",
+    "cols": [
+        {
+            "title": "Bugs",
+            "tasks": [
+                {
+                    "text": "Cadastro de Administradores \nrealiazar testes para pega bugs",
+                    "id": "cl0loshpt000f3z5sbwk7fbqr"
+                }
+            ],
+            "id": "cl0lorvu3000a3z5sw9rzcemt",
+            "color": "#eb144c"
+        },
+        {
+            "title": "To-Do",
+            "tasks": [
+                {
+                    "text": "",
+                    "id": "cl0lorvu3000b3z5s888pd0kg"
+                }
+            ],
+            "id": "cl0lorvu3000c3z5sqa91o9rs",
+            "color": "#fcb900"
+        },
+        {
+            "title": "Doing",
+            "tasks": [],
+            "id": "cl0lorvu3000d3z5sm3rby9po",
+            "color": "#0693e3"
+        },
+        {
+            "title": "Done",
+            "tasks": [],
+            "id": "cl0lorvu3000e3z5suqolfsng",
+            "color": "#00d084"
+        }
+    ],
+    "autosave": true,
+    "saveToFile": true,
+    "timestamp": 1646958900311
+}
